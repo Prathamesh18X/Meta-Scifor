@@ -1,8 +1,37 @@
-# React + Vite
+# Task-1 : Todo List 
+A todo list app, created using [React.js](https://github.com/facebook/react) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Features
+- created using [React.js](https://github.com/facebook/react);
+- ability to add and remove tasks;
+- functionality to search the tasks by title;
+- "done" management;
+- functionality to filter the tasks;
+- adaptive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Adding project using terminal
+- step 1 :  Add to local folder
+```
+git clone https://github.com/Prathamesh18X/Meta-Scifor.git
+```
+
+## Move to project folder
+- step 2 : 
+```
+cd Meta-Scifor
+```
+## Install all dependency
+- step 3 : Its an Vite project
+```
+npm install
+```
+
+## Running project in development environment 
+- step 4 : 
+```
+npm run dev
+```
+
+Thanks Jay hind
